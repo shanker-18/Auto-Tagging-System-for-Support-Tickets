@@ -1,0 +1,1001 @@
+Ticket ID,User Query,Category
+T1,How do I get a refund?,Product Quality
+T2,How do I get a refund?,Payment Issue
+T3,How do I get a refund?,General Inquiry
+T4,Payment issue occurred,Delivery Issue
+T5,Delivery delayed,Delivery Issue
+T6,Product is defective,Support
+T7,Need help with my order,Payment Issue
+T8,Need help with my order,Support
+T9,Payment issue occurred,Support
+T10,Need help with my order,Support
+T11,Product is defective,General Inquiry
+T12,Product is defective,Support
+T13,Product is defective,Payment Issue
+T14,How do I get a refund?,General Inquiry
+T15,Need help with my order,General Inquiry
+T16,Product is defective,Product Quality
+T17,Product is defective,Product Quality
+T18,Delivery delayed,Payment Issue
+T19,Payment issue occurred,Payment Issue
+T20,Product is defective,Support
+T21,Product is defective,Support
+T22,Need help with my order,Payment Issue
+T23,Delivery delayed,Payment Issue
+T24,How do I get a refund?,Support
+T25,Need help with my order,Product Quality
+T26,Product is defective,Payment Issue
+T27,Delivery delayed,Support
+T28,How do I get a refund?,Payment Issue
+T29,How do I get a refund?,General Inquiry
+T30,How do I get a refund?,Support
+T31,Delivery delayed,General Inquiry
+T32,Payment issue occurred,Support
+T33,Delivery delayed,Delivery Issue
+T34,How do I get a refund?,Support
+T35,Payment issue occurred,Delivery Issue
+T36,Payment issue occurred,Support
+T37,How do I get a refund?,Product Quality
+T38,Payment issue occurred,Product Quality
+T39,Product is defective,Payment Issue
+T40,Payment issue occurred,Product Quality
+T41,Delivery delayed,Payment Issue
+T42,Delivery delayed,General Inquiry
+T43,Product is defective,General Inquiry
+T44,Need help with my order,Product Quality
+T45,Payment issue occurred,Support
+T46,Need help with my order,General Inquiry
+T47,Payment issue occurred,Product Quality
+T48,Product is defective,General Inquiry
+T49,How do I get a refund?,Support
+T50,Payment issue occurred,General Inquiry
+T51,Need help with my order,Product Quality
+T52,Product is defective,Payment Issue
+T53,Delivery delayed,Payment Issue
+T54,How do I get a refund?,General Inquiry
+T55,Payment issue occurred,General Inquiry
+T56,Delivery delayed,Payment Issue
+T57,Delivery delayed,General Inquiry
+T58,How do I get a refund?,General Inquiry
+T59,Product is defective,Delivery Issue
+T60,Product is defective,General Inquiry
+T61,Product is defective,Support
+T62,Delivery delayed,Support
+T63,Payment issue occurred,Product Quality
+T64,Product is defective,Payment Issue
+T65,Need help with my order,Product Quality
+T66,Product is defective,Product Quality
+T67,Delivery delayed,Delivery Issue
+T68,Product is defective,Product Quality
+T69,Need help with my order,Product Quality
+T70,Payment issue occurred,Payment Issue
+T71,How do I get a refund?,Payment Issue
+T72,Delivery delayed,Delivery Issue
+T73,Product is defective,Delivery Issue
+T74,Delivery delayed,General Inquiry
+T75,Product is defective,Payment Issue
+T76,Payment issue occurred,Support
+T77,Product is defective,Payment Issue
+T78,Product is defective,Product Quality
+T79,How do I get a refund?,General Inquiry
+T80,Delivery delayed,Payment Issue
+T81,Delivery delayed,Product Quality
+T82,Payment issue occurred,Payment Issue
+T83,Payment issue occurred,Product Quality
+T84,How do I get a refund?,Payment Issue
+T85,Product is defective,Delivery Issue
+T86,Product is defective,Support
+T87,Product is defective,Delivery Issue
+T88,Need help with my order,Delivery Issue
+T89,Product is defective,Support
+T90,Need help with my order,Payment Issue
+T91,Need help with my order,Payment Issue
+T92,How do I get a refund?,General Inquiry
+T93,How do I get a refund?,Delivery Issue
+T94,Payment issue occurred,Delivery Issue
+T95,Delivery delayed,Delivery Issue
+T96,Delivery delayed,Product Quality
+T97,How do I get a refund?,General Inquiry
+T98,How do I get a refund?,Payment Issue
+T99,Need help with my order,General Inquiry
+T100,Payment issue occurred,Delivery Issue
+T101,Delivery delayed,Support
+T102,Delivery delayed,General Inquiry
+T103,Payment issue occurred,General Inquiry
+T104,Product is defective,General Inquiry
+T105,How do I get a refund?,Delivery Issue
+T106,Payment issue occurred,Delivery Issue
+T107,Delivery delayed,Support
+T108,Payment issue occurred,Support
+T109,Delivery delayed,Payment Issue
+T110,How do I get a refund?,Payment Issue
+T111,Payment issue occurred,General Inquiry
+T112,Need help with my order,Payment Issue
+T113,Product is defective,Payment Issue
+T114,Need help with my order,Payment Issue
+T115,Payment issue occurred,Product Quality
+T116,Product is defective,Delivery Issue
+T117,Need help with my order,Support
+T118,Need help with my order,General Inquiry
+T119,Product is defective,General Inquiry
+T120,How do I get a refund?,Delivery Issue
+T121,How do I get a refund?,Payment Issue
+T122,Product is defective,General Inquiry
+T123,Payment issue occurred,General Inquiry
+T124,Need help with my order,General Inquiry
+T125,Product is defective,Delivery Issue
+T126,Payment issue occurred,Payment Issue
+T127,How do I get a refund?,Product Quality
+T128,Product is defective,General Inquiry
+T129,How do I get a refund?,Delivery Issue
+T130,Delivery delayed,Payment Issue
+T131,Payment issue occurred,Delivery Issue
+T132,How do I get a refund?,Payment Issue
+T133,Product is defective,Product Quality
+T134,Delivery delayed,Delivery Issue
+T135,Need help with my order,Support
+T136,How do I get a refund?,General Inquiry
+T137,Delivery delayed,Product Quality
+T138,How do I get a refund?,Product Quality
+T139,Need help with my order,Product Quality
+T140,Product is defective,Delivery Issue
+T141,How do I get a refund?,Payment Issue
+T142,How do I get a refund?,Payment Issue
+T143,Product is defective,General Inquiry
+T144,How do I get a refund?,Product Quality
+T145,How do I get a refund?,Delivery Issue
+T146,Payment issue occurred,General Inquiry
+T147,Delivery delayed,Support
+T148,Payment issue occurred,Product Quality
+T149,Product is defective,Product Quality
+T150,Payment issue occurred,Product Quality
+T151,Need help with my order,Delivery Issue
+T152,Payment issue occurred,Payment Issue
+T153,How do I get a refund?,Product Quality
+T154,Need help with my order,Delivery Issue
+T155,Payment issue occurred,Delivery Issue
+T156,Delivery delayed,Delivery Issue
+T157,Delivery delayed,Support
+T158,Product is defective,General Inquiry
+T159,Delivery delayed,General Inquiry
+T160,Product is defective,Support
+T161,How do I get a refund?,Product Quality
+T162,Payment issue occurred,General Inquiry
+T163,Delivery delayed,Support
+T164,How do I get a refund?,Payment Issue
+T165,Need help with my order,General Inquiry
+T166,Delivery delayed,Product Quality
+T167,Need help with my order,General Inquiry
+T168,How do I get a refund?,Product Quality
+T169,Product is defective,Product Quality
+T170,How do I get a refund?,Support
+T171,Need help with my order,Product Quality
+T172,How do I get a refund?,Delivery Issue
+T173,Need help with my order,Product Quality
+T174,Delivery delayed,General Inquiry
+T175,Product is defective,Delivery Issue
+T176,Need help with my order,Payment Issue
+T177,Delivery delayed,Product Quality
+T178,How do I get a refund?,Support
+T179,Need help with my order,Payment Issue
+T180,Delivery delayed,Support
+T181,Product is defective,General Inquiry
+T182,Need help with my order,Product Quality
+T183,Payment issue occurred,Delivery Issue
+T184,Product is defective,Support
+T185,Payment issue occurred,Delivery Issue
+T186,How do I get a refund?,General Inquiry
+T187,Delivery delayed,Support
+T188,Product is defective,Product Quality
+T189,Need help with my order,Support
+T190,Payment issue occurred,Delivery Issue
+T191,Product is defective,Delivery Issue
+T192,Delivery delayed,General Inquiry
+T193,Payment issue occurred,General Inquiry
+T194,Delivery delayed,Payment Issue
+T195,How do I get a refund?,Product Quality
+T196,Need help with my order,Product Quality
+T197,Product is defective,Payment Issue
+T198,How do I get a refund?,General Inquiry
+T199,Delivery delayed,Delivery Issue
+T200,Product is defective,Product Quality
+T201,How do I get a refund?,Payment Issue
+T202,Product is defective,Delivery Issue
+T203,Need help with my order,Product Quality
+T204,Payment issue occurred,General Inquiry
+T205,Payment issue occurred,Support
+T206,Product is defective,General Inquiry
+T207,Payment issue occurred,Product Quality
+T208,Product is defective,Support
+T209,Payment issue occurred,General Inquiry
+T210,Payment issue occurred,Product Quality
+T211,Need help with my order,General Inquiry
+T212,How do I get a refund?,Payment Issue
+T213,Need help with my order,Product Quality
+T214,How do I get a refund?,Payment Issue
+T215,Delivery delayed,Payment Issue
+T216,Payment issue occurred,Delivery Issue
+T217,Need help with my order,Payment Issue
+T218,Need help with my order,Delivery Issue
+T219,Payment issue occurred,Product Quality
+T220,Product is defective,Delivery Issue
+T221,Product is defective,Delivery Issue
+T222,Delivery delayed,Payment Issue
+T223,How do I get a refund?,Delivery Issue
+T224,Need help with my order,Product Quality
+T225,How do I get a refund?,General Inquiry
+T226,Need help with my order,Support
+T227,Delivery delayed,Delivery Issue
+T228,How do I get a refund?,Product Quality
+T229,Product is defective,Payment Issue
+T230,Product is defective,Product Quality
+T231,How do I get a refund?,Payment Issue
+T232,Delivery delayed,General Inquiry
+T233,How do I get a refund?,Product Quality
+T234,Need help with my order,General Inquiry
+T235,Need help with my order,Delivery Issue
+T236,Need help with my order,Support
+T237,Product is defective,Delivery Issue
+T238,Need help with my order,General Inquiry
+T239,How do I get a refund?,Delivery Issue
+T240,How do I get a refund?,Product Quality
+T241,Payment issue occurred,Payment Issue
+T242,Need help with my order,General Inquiry
+T243,How do I get a refund?,Payment Issue
+T244,Delivery delayed,Product Quality
+T245,Delivery delayed,General Inquiry
+T246,Product is defective,Payment Issue
+T247,Need help with my order,Product Quality
+T248,Payment issue occurred,Delivery Issue
+T249,Product is defective,Payment Issue
+T250,Delivery delayed,Payment Issue
+T251,Delivery delayed,General Inquiry
+T252,Delivery delayed,General Inquiry
+T253,Product is defective,General Inquiry
+T254,Payment issue occurred,General Inquiry
+T255,Need help with my order,General Inquiry
+T256,Need help with my order,Delivery Issue
+T257,Product is defective,General Inquiry
+T258,Delivery delayed,Support
+T259,Delivery delayed,General Inquiry
+T260,Product is defective,Support
+T261,Payment issue occurred,Delivery Issue
+T262,Need help with my order,Payment Issue
+T263,Delivery delayed,Delivery Issue
+T264,How do I get a refund?,General Inquiry
+T265,How do I get a refund?,Delivery Issue
+T266,Need help with my order,Product Quality
+T267,Delivery delayed,Support
+T268,Need help with my order,Product Quality
+T269,How do I get a refund?,General Inquiry
+T270,Need help with my order,Delivery Issue
+T271,Need help with my order,General Inquiry
+T272,How do I get a refund?,Support
+T273,Delivery delayed,Payment Issue
+T274,Payment issue occurred,Payment Issue
+T275,Payment issue occurred,General Inquiry
+T276,Delivery delayed,Payment Issue
+T277,Product is defective,Payment Issue
+T278,How do I get a refund?,Delivery Issue
+T279,Need help with my order,Payment Issue
+T280,Payment issue occurred,Payment Issue
+T281,Product is defective,Product Quality
+T282,Delivery delayed,Product Quality
+T283,Payment issue occurred,General Inquiry
+T284,Product is defective,Payment Issue
+T285,Product is defective,Delivery Issue
+T286,Need help with my order,Delivery Issue
+T287,How do I get a refund?,Support
+T288,Need help with my order,Support
+T289,Product is defective,Support
+T290,Delivery delayed,Delivery Issue
+T291,Payment issue occurred,Delivery Issue
+T292,Delivery delayed,Delivery Issue
+T293,Delivery delayed,General Inquiry
+T294,How do I get a refund?,Delivery Issue
+T295,Product is defective,Delivery Issue
+T296,Need help with my order,Delivery Issue
+T297,Payment issue occurred,Payment Issue
+T298,Need help with my order,Payment Issue
+T299,Product is defective,Payment Issue
+T300,Product is defective,Support
+T301,Product is defective,Delivery Issue
+T302,Product is defective,Support
+T303,How do I get a refund?,Product Quality
+T304,How do I get a refund?,General Inquiry
+T305,How do I get a refund?,Delivery Issue
+T306,Payment issue occurred,General Inquiry
+T307,How do I get a refund?,Support
+T308,Product is defective,General Inquiry
+T309,Need help with my order,General Inquiry
+T310,Delivery delayed,Support
+T311,How do I get a refund?,Delivery Issue
+T312,Product is defective,Payment Issue
+T313,Payment issue occurred,Payment Issue
+T314,Product is defective,Support
+T315,Delivery delayed,Delivery Issue
+T316,How do I get a refund?,Payment Issue
+T317,Product is defective,Product Quality
+T318,Payment issue occurred,Support
+T319,How do I get a refund?,Product Quality
+T320,Product is defective,Support
+T321,Need help with my order,Delivery Issue
+T322,How do I get a refund?,General Inquiry
+T323,Product is defective,Delivery Issue
+T324,Product is defective,General Inquiry
+T325,Need help with my order,Payment Issue
+T326,Payment issue occurred,Support
+T327,Payment issue occurred,Support
+T328,Delivery delayed,Delivery Issue
+T329,How do I get a refund?,General Inquiry
+T330,Payment issue occurred,Payment Issue
+T331,Delivery delayed,Support
+T332,Payment issue occurred,Payment Issue
+T333,How do I get a refund?,Support
+T334,How do I get a refund?,Support
+T335,Payment issue occurred,Product Quality
+T336,Delivery delayed,Payment Issue
+T337,How do I get a refund?,General Inquiry
+T338,Product is defective,Delivery Issue
+T339,Product is defective,Delivery Issue
+T340,How do I get a refund?,Payment Issue
+T341,Need help with my order,Product Quality
+T342,Payment issue occurred,General Inquiry
+T343,Payment issue occurred,Support
+T344,Delivery delayed,Product Quality
+T345,Need help with my order,Product Quality
+T346,How do I get a refund?,Support
+T347,Need help with my order,Product Quality
+T348,Product is defective,Support
+T349,Payment issue occurred,Product Quality
+T350,Need help with my order,Payment Issue
+T351,Product is defective,Delivery Issue
+T352,Need help with my order,General Inquiry
+T353,Need help with my order,Support
+T354,Delivery delayed,Support
+T355,Product is defective,Delivery Issue
+T356,Payment issue occurred,Support
+T357,Need help with my order,Payment Issue
+T358,How do I get a refund?,Delivery Issue
+T359,Product is defective,Support
+T360,Need help with my order,Product Quality
+T361,How do I get a refund?,Delivery Issue
+T362,Payment issue occurred,Product Quality
+T363,Delivery delayed,Delivery Issue
+T364,Need help with my order,Product Quality
+T365,Need help with my order,Delivery Issue
+T366,Product is defective,Support
+T367,Need help with my order,General Inquiry
+T368,Need help with my order,Payment Issue
+T369,Payment issue occurred,Payment Issue
+T370,Payment issue occurred,Product Quality
+T371,Delivery delayed,Support
+T372,Need help with my order,General Inquiry
+T373,Delivery delayed,Delivery Issue
+T374,Delivery delayed,Support
+T375,How do I get a refund?,Payment Issue
+T376,Delivery delayed,Product Quality
+T377,Product is defective,Support
+T378,Payment issue occurred,Delivery Issue
+T379,Need help with my order,Support
+T380,Delivery delayed,Product Quality
+T381,Need help with my order,General Inquiry
+T382,Product is defective,Product Quality
+T383,How do I get a refund?,Payment Issue
+T384,Product is defective,General Inquiry
+T385,How do I get a refund?,Payment Issue
+T386,Delivery delayed,Payment Issue
+T387,How do I get a refund?,General Inquiry
+T388,Payment issue occurred,General Inquiry
+T389,Delivery delayed,General Inquiry
+T390,How do I get a refund?,General Inquiry
+T391,Delivery delayed,General Inquiry
+T392,Need help with my order,Product Quality
+T393,Payment issue occurred,General Inquiry
+T394,Payment issue occurred,Product Quality
+T395,Delivery delayed,Support
+T396,Need help with my order,Support
+T397,Product is defective,Support
+T398,Delivery delayed,Delivery Issue
+T399,How do I get a refund?,Support
+T400,Delivery delayed,General Inquiry
+T401,How do I get a refund?,Product Quality
+T402,Need help with my order,Support
+T403,Payment issue occurred,Support
+T404,Need help with my order,Delivery Issue
+T405,Payment issue occurred,Product Quality
+T406,Product is defective,Support
+T407,Delivery delayed,Support
+T408,How do I get a refund?,General Inquiry
+T409,Need help with my order,Delivery Issue
+T410,Need help with my order,Product Quality
+T411,Payment issue occurred,Delivery Issue
+T412,Delivery delayed,Payment Issue
+T413,How do I get a refund?,Support
+T414,Need help with my order,Product Quality
+T415,Delivery delayed,Payment Issue
+T416,Payment issue occurred,Payment Issue
+T417,Need help with my order,Payment Issue
+T418,Product is defective,Product Quality
+T419,How do I get a refund?,Support
+T420,Payment issue occurred,Product Quality
+T421,Payment issue occurred,Support
+T422,Payment issue occurred,Product Quality
+T423,Delivery delayed,General Inquiry
+T424,Product is defective,Support
+T425,How do I get a refund?,Payment Issue
+T426,Product is defective,Support
+T427,Product is defective,Payment Issue
+T428,Delivery delayed,Delivery Issue
+T429,Payment issue occurred,Product Quality
+T430,Product is defective,Payment Issue
+T431,Payment issue occurred,Payment Issue
+T432,Payment issue occurred,Product Quality
+T433,Delivery delayed,Support
+T434,How do I get a refund?,Delivery Issue
+T435,Delivery delayed,General Inquiry
+T436,Payment issue occurred,Support
+T437,How do I get a refund?,Product Quality
+T438,Delivery delayed,Product Quality
+T439,How do I get a refund?,Payment Issue
+T440,Need help with my order,General Inquiry
+T441,Product is defective,General Inquiry
+T442,Need help with my order,Support
+T443,Need help with my order,Support
+T444,Need help with my order,Product Quality
+T445,Delivery delayed,Product Quality
+T446,Delivery delayed,Support
+T447,Payment issue occurred,Support
+T448,How do I get a refund?,General Inquiry
+T449,Need help with my order,General Inquiry
+T450,How do I get a refund?,General Inquiry
+T451,How do I get a refund?,General Inquiry
+T452,Payment issue occurred,Payment Issue
+T453,How do I get a refund?,General Inquiry
+T454,How do I get a refund?,Product Quality
+T455,Product is defective,General Inquiry
+T456,Need help with my order,Delivery Issue
+T457,Delivery delayed,Payment Issue
+T458,Product is defective,Support
+T459,Payment issue occurred,Payment Issue
+T460,Delivery delayed,Support
+T461,Product is defective,Delivery Issue
+T462,Delivery delayed,Product Quality
+T463,Need help with my order,General Inquiry
+T464,Product is defective,Payment Issue
+T465,Need help with my order,Delivery Issue
+T466,How do I get a refund?,Product Quality
+T467,Delivery delayed,Support
+T468,How do I get a refund?,General Inquiry
+T469,How do I get a refund?,Delivery Issue
+T470,Payment issue occurred,General Inquiry
+T471,Need help with my order,Delivery Issue
+T472,Delivery delayed,Support
+T473,Product is defective,Support
+T474,Delivery delayed,Payment Issue
+T475,Delivery delayed,Delivery Issue
+T476,Product is defective,Payment Issue
+T477,Need help with my order,Delivery Issue
+T478,How do I get a refund?,Payment Issue
+T479,Need help with my order,Payment Issue
+T480,Payment issue occurred,Support
+T481,Delivery delayed,Payment Issue
+T482,Product is defective,General Inquiry
+T483,How do I get a refund?,Support
+T484,Need help with my order,Product Quality
+T485,Payment issue occurred,General Inquiry
+T486,Payment issue occurred,Support
+T487,Product is defective,Delivery Issue
+T488,Payment issue occurred,Support
+T489,Delivery delayed,General Inquiry
+T490,Product is defective,Support
+T491,Product is defective,Product Quality
+T492,How do I get a refund?,Product Quality
+T493,Delivery delayed,Product Quality
+T494,Product is defective,General Inquiry
+T495,Product is defective,General Inquiry
+T496,Need help with my order,Product Quality
+T497,How do I get a refund?,Delivery Issue
+T498,Need help with my order,Delivery Issue
+T499,Delivery delayed,Payment Issue
+T500,Delivery delayed,Product Quality
+T501,Payment issue occurred,Support
+T502,Need help with my order,Delivery Issue
+T503,How do I get a refund?,Payment Issue
+T504,Need help with my order,Payment Issue
+T505,Delivery delayed,Product Quality
+T506,How do I get a refund?,Payment Issue
+T507,How do I get a refund?,General Inquiry
+T508,Delivery delayed,Payment Issue
+T509,Payment issue occurred,Product Quality
+T510,Delivery delayed,General Inquiry
+T511,Need help with my order,Product Quality
+T512,Payment issue occurred,Product Quality
+T513,How do I get a refund?,Product Quality
+T514,Delivery delayed,Delivery Issue
+T515,How do I get a refund?,Support
+T516,Product is defective,Product Quality
+T517,Need help with my order,Product Quality
+T518,Product is defective,Product Quality
+T519,How do I get a refund?,Delivery Issue
+T520,Payment issue occurred,General Inquiry
+T521,Delivery delayed,Delivery Issue
+T522,Payment issue occurred,General Inquiry
+T523,Product is defective,Payment Issue
+T524,How do I get a refund?,Product Quality
+T525,Need help with my order,Product Quality
+T526,How do I get a refund?,Support
+T527,Need help with my order,Product Quality
+T528,How do I get a refund?,Support
+T529,Delivery delayed,Product Quality
+T530,Need help with my order,Support
+T531,Product is defective,Support
+T532,How do I get a refund?,Product Quality
+T533,Need help with my order,Product Quality
+T534,Delivery delayed,Delivery Issue
+T535,Need help with my order,General Inquiry
+T536,Delivery delayed,General Inquiry
+T537,Need help with my order,Payment Issue
+T538,Payment issue occurred,General Inquiry
+T539,Payment issue occurred,Product Quality
+T540,Product is defective,General Inquiry
+T541,Delivery delayed,Payment Issue
+T542,Need help with my order,Payment Issue
+T543,Need help with my order,Payment Issue
+T544,Delivery delayed,General Inquiry
+T545,How do I get a refund?,General Inquiry
+T546,Payment issue occurred,Delivery Issue
+T547,Payment issue occurred,Payment Issue
+T548,Need help with my order,Product Quality
+T549,Need help with my order,Product Quality
+T550,Need help with my order,General Inquiry
+T551,Need help with my order,General Inquiry
+T552,Payment issue occurred,Delivery Issue
+T553,Product is defective,Product Quality
+T554,Need help with my order,General Inquiry
+T555,How do I get a refund?,Payment Issue
+T556,Need help with my order,Delivery Issue
+T557,How do I get a refund?,Product Quality
+T558,Product is defective,Product Quality
+T559,Product is defective,General Inquiry
+T560,Product is defective,Payment Issue
+T561,Payment issue occurred,Product Quality
+T562,Payment issue occurred,Support
+T563,Payment issue occurred,Payment Issue
+T564,Delivery delayed,Payment Issue
+T565,How do I get a refund?,Delivery Issue
+T566,Need help with my order,Product Quality
+T567,How do I get a refund?,Delivery Issue
+T568,Delivery delayed,Support
+T569,Product is defective,Delivery Issue
+T570,Product is defective,Product Quality
+T571,Delivery delayed,Product Quality
+T572,Product is defective,Delivery Issue
+T573,Need help with my order,Payment Issue
+T574,Payment issue occurred,Payment Issue
+T575,Delivery delayed,Delivery Issue
+T576,Delivery delayed,Delivery Issue
+T577,Need help with my order,Product Quality
+T578,Product is defective,Support
+T579,Product is defective,Product Quality
+T580,Need help with my order,General Inquiry
+T581,Payment issue occurred,General Inquiry
+T582,Payment issue occurred,Support
+T583,How do I get a refund?,General Inquiry
+T584,How do I get a refund?,Product Quality
+T585,Delivery delayed,Payment Issue
+T586,Need help with my order,Delivery Issue
+T587,Delivery delayed,Support
+T588,Need help with my order,General Inquiry
+T589,Need help with my order,Support
+T590,Payment issue occurred,General Inquiry
+T591,Need help with my order,Product Quality
+T592,Payment issue occurred,General Inquiry
+T593,Delivery delayed,Product Quality
+T594,Product is defective,Payment Issue
+T595,How do I get a refund?,Payment Issue
+T596,Need help with my order,Product Quality
+T597,How do I get a refund?,General Inquiry
+T598,Need help with my order,General Inquiry
+T599,Payment issue occurred,Payment Issue
+T600,Delivery delayed,Delivery Issue
+T601,Need help with my order,Payment Issue
+T602,Need help with my order,General Inquiry
+T603,Product is defective,Delivery Issue
+T604,How do I get a refund?,Support
+T605,Delivery delayed,General Inquiry
+T606,Need help with my order,Payment Issue
+T607,Product is defective,Delivery Issue
+T608,How do I get a refund?,Payment Issue
+T609,Need help with my order,General Inquiry
+T610,Payment issue occurred,Payment Issue
+T611,Delivery delayed,Product Quality
+T612,How do I get a refund?,Delivery Issue
+T613,Need help with my order,Support
+T614,Delivery delayed,Product Quality
+T615,Payment issue occurred,Payment Issue
+T616,Product is defective,Support
+T617,Delivery delayed,Product Quality
+T618,Payment issue occurred,General Inquiry
+T619,Payment issue occurred,Delivery Issue
+T620,Payment issue occurred,Payment Issue
+T621,Payment issue occurred,Product Quality
+T622,Product is defective,Payment Issue
+T623,Need help with my order,Payment Issue
+T624,How do I get a refund?,Product Quality
+T625,How do I get a refund?,Payment Issue
+T626,Need help with my order,Support
+T627,Product is defective,Product Quality
+T628,How do I get a refund?,Product Quality
+T629,How do I get a refund?,General Inquiry
+T630,Delivery delayed,Delivery Issue
+T631,Delivery delayed,Payment Issue
+T632,Delivery delayed,Delivery Issue
+T633,How do I get a refund?,Support
+T634,Payment issue occurred,General Inquiry
+T635,How do I get a refund?,Payment Issue
+T636,Payment issue occurred,Payment Issue
+T637,Payment issue occurred,General Inquiry
+T638,Payment issue occurred,Delivery Issue
+T639,Product is defective,Delivery Issue
+T640,Delivery delayed,Payment Issue
+T641,Delivery delayed,General Inquiry
+T642,Product is defective,Delivery Issue
+T643,Need help with my order,Support
+T644,Payment issue occurred,Product Quality
+T645,Payment issue occurred,Delivery Issue
+T646,Delivery delayed,Product Quality
+T647,Delivery delayed,General Inquiry
+T648,Product is defective,Product Quality
+T649,Product is defective,Support
+T650,How do I get a refund?,General Inquiry
+T651,Payment issue occurred,Support
+T652,Need help with my order,Support
+T653,Payment issue occurred,Delivery Issue
+T654,Payment issue occurred,Support
+T655,Need help with my order,Delivery Issue
+T656,Need help with my order,Payment Issue
+T657,Product is defective,Delivery Issue
+T658,Product is defective,Support
+T659,Need help with my order,General Inquiry
+T660,Payment issue occurred,General Inquiry
+T661,Payment issue occurred,Payment Issue
+T662,Product is defective,Delivery Issue
+T663,Need help with my order,Payment Issue
+T664,Product is defective,Support
+T665,Product is defective,Payment Issue
+T666,Product is defective,Delivery Issue
+T667,How do I get a refund?,Support
+T668,Product is defective,Payment Issue
+T669,Product is defective,General Inquiry
+T670,Need help with my order,Payment Issue
+T671,Payment issue occurred,Product Quality
+T672,Product is defective,General Inquiry
+T673,Need help with my order,Support
+T674,Need help with my order,Product Quality
+T675,Product is defective,Support
+T676,Product is defective,Delivery Issue
+T677,How do I get a refund?,Support
+T678,Need help with my order,Support
+T679,Need help with my order,Support
+T680,Product is defective,Payment Issue
+T681,Payment issue occurred,General Inquiry
+T682,Product is defective,Support
+T683,Delivery delayed,Product Quality
+T684,How do I get a refund?,Delivery Issue
+T685,Need help with my order,Delivery Issue
+T686,Delivery delayed,Support
+T687,Product is defective,Support
+T688,Payment issue occurred,Delivery Issue
+T689,Payment issue occurred,General Inquiry
+T690,Product is defective,Payment Issue
+T691,Delivery delayed,Delivery Issue
+T692,Payment issue occurred,Payment Issue
+T693,How do I get a refund?,Delivery Issue
+T694,Product is defective,Product Quality
+T695,Need help with my order,General Inquiry
+T696,How do I get a refund?,Delivery Issue
+T697,Need help with my order,Delivery Issue
+T698,Product is defective,Product Quality
+T699,Need help with my order,Support
+T700,Payment issue occurred,Support
+T701,Need help with my order,General Inquiry
+T702,Product is defective,General Inquiry
+T703,Payment issue occurred,Delivery Issue
+T704,Delivery delayed,Delivery Issue
+T705,Payment issue occurred,Delivery Issue
+T706,Payment issue occurred,Product Quality
+T707,Payment issue occurred,General Inquiry
+T708,Delivery delayed,General Inquiry
+T709,Delivery delayed,Product Quality
+T710,Need help with my order,General Inquiry
+T711,How do I get a refund?,General Inquiry
+T712,Product is defective,General Inquiry
+T713,Need help with my order,General Inquiry
+T714,How do I get a refund?,Support
+T715,Product is defective,Support
+T716,Product is defective,General Inquiry
+T717,Delivery delayed,Delivery Issue
+T718,How do I get a refund?,Support
+T719,How do I get a refund?,Product Quality
+T720,Delivery delayed,Payment Issue
+T721,Product is defective,Product Quality
+T722,How do I get a refund?,Support
+T723,Product is defective,Support
+T724,Need help with my order,Payment Issue
+T725,Need help with my order,Support
+T726,Delivery delayed,Support
+T727,Need help with my order,Payment Issue
+T728,Product is defective,Payment Issue
+T729,Product is defective,Product Quality
+T730,Need help with my order,Support
+T731,Delivery delayed,Payment Issue
+T732,How do I get a refund?,Payment Issue
+T733,How do I get a refund?,Support
+T734,Delivery delayed,Payment Issue
+T735,Product is defective,Payment Issue
+T736,Payment issue occurred,Delivery Issue
+T737,Product is defective,General Inquiry
+T738,Payment issue occurred,General Inquiry
+T739,Product is defective,Product Quality
+T740,Payment issue occurred,Product Quality
+T741,Product is defective,Delivery Issue
+T742,Delivery delayed,Support
+T743,Payment issue occurred,Delivery Issue
+T744,How do I get a refund?,Support
+T745,Payment issue occurred,Delivery Issue
+T746,Delivery delayed,Payment Issue
+T747,Product is defective,Support
+T748,Need help with my order,General Inquiry
+T749,Delivery delayed,Support
+T750,Payment issue occurred,Support
+T751,Need help with my order,Support
+T752,Delivery delayed,Support
+T753,Delivery delayed,Product Quality
+T754,Need help with my order,General Inquiry
+T755,How do I get a refund?,Payment Issue
+T756,How do I get a refund?,Support
+T757,Payment issue occurred,General Inquiry
+T758,Payment issue occurred,Delivery Issue
+T759,Product is defective,Delivery Issue
+T760,Delivery delayed,Product Quality
+T761,Need help with my order,Delivery Issue
+T762,Payment issue occurred,General Inquiry
+T763,How do I get a refund?,Product Quality
+T764,Delivery delayed,Delivery Issue
+T765,Delivery delayed,General Inquiry
+T766,Delivery delayed,Support
+T767,Payment issue occurred,Delivery Issue
+T768,Product is defective,Payment Issue
+T769,Product is defective,Support
+T770,Delivery delayed,Payment Issue
+T771,Delivery delayed,Support
+T772,Product is defective,Delivery Issue
+T773,How do I get a refund?,Product Quality
+T774,Need help with my order,Support
+T775,How do I get a refund?,Product Quality
+T776,Payment issue occurred,Payment Issue
+T777,Need help with my order,Delivery Issue
+T778,Delivery delayed,General Inquiry
+T779,Payment issue occurred,Payment Issue
+T780,Need help with my order,Product Quality
+T781,Product is defective,General Inquiry
+T782,How do I get a refund?,Delivery Issue
+T783,Delivery delayed,Support
+T784,Payment issue occurred,Delivery Issue
+T785,How do I get a refund?,Payment Issue
+T786,How do I get a refund?,Delivery Issue
+T787,How do I get a refund?,Payment Issue
+T788,How do I get a refund?,General Inquiry
+T789,Delivery delayed,Delivery Issue
+T790,Payment issue occurred,Support
+T791,Need help with my order,General Inquiry
+T792,How do I get a refund?,Support
+T793,Product is defective,General Inquiry
+T794,Need help with my order,Support
+T795,Payment issue occurred,Payment Issue
+T796,Product is defective,Delivery Issue
+T797,How do I get a refund?,Payment Issue
+T798,Delivery delayed,Product Quality
+T799,Payment issue occurred,Delivery Issue
+T800,Delivery delayed,Delivery Issue
+T801,Delivery delayed,Support
+T802,Product is defective,Delivery Issue
+T803,Need help with my order,Support
+T804,Delivery delayed,Delivery Issue
+T805,Product is defective,Product Quality
+T806,Payment issue occurred,General Inquiry
+T807,Product is defective,Support
+T808,Need help with my order,General Inquiry
+T809,Payment issue occurred,Delivery Issue
+T810,Need help with my order,Delivery Issue
+T811,Payment issue occurred,Payment Issue
+T812,How do I get a refund?,Support
+T813,Need help with my order,Delivery Issue
+T814,Payment issue occurred,General Inquiry
+T815,Delivery delayed,Product Quality
+T816,Delivery delayed,Product Quality
+T817,Product is defective,Payment Issue
+T818,How do I get a refund?,Payment Issue
+T819,Payment issue occurred,Payment Issue
+T820,Product is defective,General Inquiry
+T821,Product is defective,Payment Issue
+T822,Need help with my order,Payment Issue
+T823,Delivery delayed,Payment Issue
+T824,How do I get a refund?,General Inquiry
+T825,Need help with my order,Payment Issue
+T826,Delivery delayed,General Inquiry
+T827,Product is defective,Product Quality
+T828,How do I get a refund?,General Inquiry
+T829,Payment issue occurred,Support
+T830,Product is defective,Support
+T831,Product is defective,Delivery Issue
+T832,Delivery delayed,Support
+T833,How do I get a refund?,Support
+T834,Product is defective,Delivery Issue
+T835,How do I get a refund?,General Inquiry
+T836,Product is defective,Delivery Issue
+T837,Delivery delayed,Support
+T838,Product is defective,Product Quality
+T839,How do I get a refund?,Product Quality
+T840,How do I get a refund?,Payment Issue
+T841,Need help with my order,Support
+T842,Delivery delayed,Delivery Issue
+T843,Product is defective,Product Quality
+T844,Need help with my order,Support
+T845,Payment issue occurred,Product Quality
+T846,Delivery delayed,Delivery Issue
+T847,Delivery delayed,Product Quality
+T848,Need help with my order,Product Quality
+T849,Need help with my order,Product Quality
+T850,Product is defective,Product Quality
+T851,Product is defective,Payment Issue
+T852,Payment issue occurred,Payment Issue
+T853,Product is defective,Product Quality
+T854,How do I get a refund?,Payment Issue
+T855,Payment issue occurred,Product Quality
+T856,Need help with my order,Support
+T857,Product is defective,Delivery Issue
+T858,Need help with my order,Delivery Issue
+T859,Delivery delayed,Support
+T860,Need help with my order,Product Quality
+T861,Delivery delayed,Delivery Issue
+T862,Need help with my order,Delivery Issue
+T863,How do I get a refund?,General Inquiry
+T864,Need help with my order,Support
+T865,Product is defective,Product Quality
+T866,Product is defective,Product Quality
+T867,Need help with my order,Delivery Issue
+T868,Need help with my order,General Inquiry
+T869,Need help with my order,General Inquiry
+T870,How do I get a refund?,Delivery Issue
+T871,How do I get a refund?,Delivery Issue
+T872,How do I get a refund?,Support
+T873,How do I get a refund?,Product Quality
+T874,Need help with my order,Delivery Issue
+T875,How do I get a refund?,Delivery Issue
+T876,Need help with my order,Payment Issue
+T877,Product is defective,General Inquiry
+T878,How do I get a refund?,Support
+T879,How do I get a refund?,General Inquiry
+T880,Product is defective,Support
+T881,How do I get a refund?,Payment Issue
+T882,How do I get a refund?,General Inquiry
+T883,Payment issue occurred,General Inquiry
+T884,Product is defective,Delivery Issue
+T885,Delivery delayed,Delivery Issue
+T886,How do I get a refund?,Payment Issue
+T887,Product is defective,Support
+T888,Need help with my order,Payment Issue
+T889,How do I get a refund?,Product Quality
+T890,Product is defective,Product Quality
+T891,Payment issue occurred,Support
+T892,Delivery delayed,Payment Issue
+T893,How do I get a refund?,Payment Issue
+T894,Payment issue occurred,Support
+T895,Delivery delayed,Support
+T896,Payment issue occurred,Payment Issue
+T897,Need help with my order,Payment Issue
+T898,Delivery delayed,Product Quality
+T899,How do I get a refund?,Product Quality
+T900,Product is defective,General Inquiry
+T901,Product is defective,Payment Issue
+T902,Delivery delayed,Product Quality
+T903,Need help with my order,General Inquiry
+T904,How do I get a refund?,Delivery Issue
+T905,Delivery delayed,Delivery Issue
+T906,How do I get a refund?,Support
+T907,Need help with my order,Delivery Issue
+T908,Need help with my order,Product Quality
+T909,How do I get a refund?,Payment Issue
+T910,How do I get a refund?,Delivery Issue
+T911,Delivery delayed,Support
+T912,Payment issue occurred,Support
+T913,Product is defective,Delivery Issue
+T914,Payment issue occurred,General Inquiry
+T915,Need help with my order,Support
+T916,How do I get a refund?,Delivery Issue
+T917,How do I get a refund?,Product Quality
+T918,Product is defective,General Inquiry
+T919,Payment issue occurred,General Inquiry
+T920,Payment issue occurred,General Inquiry
+T921,How do I get a refund?,General Inquiry
+T922,Delivery delayed,Payment Issue
+T923,Payment issue occurred,Support
+T924,Need help with my order,General Inquiry
+T925,Payment issue occurred,Delivery Issue
+T926,How do I get a refund?,General Inquiry
+T927,Delivery delayed,Delivery Issue
+T928,Delivery delayed,Product Quality
+T929,Need help with my order,Support
+T930,Product is defective,Delivery Issue
+T931,Product is defective,General Inquiry
+T932,Payment issue occurred,Delivery Issue
+T933,Payment issue occurred,Support
+T934,Payment issue occurred,Support
+T935,Product is defective,Delivery Issue
+T936,Need help with my order,General Inquiry
+T937,Need help with my order,Product Quality
+T938,Need help with my order,Product Quality
+T939,Product is defective,General Inquiry
+T940,Product is defective,Payment Issue
+T941,Payment issue occurred,Product Quality
+T942,Product is defective,Delivery Issue
+T943,Delivery delayed,Support
+T944,Delivery delayed,Delivery Issue
+T945,Need help with my order,Support
+T946,Delivery delayed,Payment Issue
+T947,How do I get a refund?,Delivery Issue
+T948,Product is defective,Support
+T949,Need help with my order,General Inquiry
+T950,Product is defective,Delivery Issue
+T951,Product is defective,Delivery Issue
+T952,Product is defective,General Inquiry
+T953,Payment issue occurred,General Inquiry
+T954,Need help with my order,Support
+T955,Product is defective,Product Quality
+T956,How do I get a refund?,General Inquiry
+T957,Payment issue occurred,Product Quality
+T958,How do I get a refund?,Product Quality
+T959,Product is defective,Delivery Issue
+T960,Delivery delayed,Support
+T961,Product is defective,Delivery Issue
+T962,How do I get a refund?,Support
+T963,Need help with my order,Payment Issue
+T964,Product is defective,Delivery Issue
+T965,Need help with my order,General Inquiry
+T966,Payment issue occurred,Payment Issue
+T967,Need help with my order,Payment Issue
+T968,How do I get a refund?,Support
+T969,Product is defective,Support
+T970,Payment issue occurred,Product Quality
+T971,How do I get a refund?,Product Quality
+T972,Delivery delayed,Delivery Issue
+T973,Delivery delayed,General Inquiry
+T974,Payment issue occurred,General Inquiry
+T975,Payment issue occurred,Product Quality
+T976,Product is defective,Support
+T977,Payment issue occurred,Payment Issue
+T978,Delivery delayed,Product Quality
+T979,Payment issue occurred,Support
+T980,Payment issue occurred,Payment Issue
+T981,Payment issue occurred,General Inquiry
+T982,Delivery delayed,Product Quality
+T983,Need help with my order,Support
+T984,Need help with my order,Support
+T985,How do I get a refund?,Delivery Issue
+T986,Need help with my order,Delivery Issue
+T987,Payment issue occurred,Payment Issue
+T988,Delivery delayed,Support
+T989,Delivery delayed,Support
+T990,Need help with my order,Delivery Issue
+T991,Payment issue occurred,Support
+T992,Product is defective,Product Quality
+T993,Payment issue occurred,Payment Issue
+T994,Product is defective,General Inquiry
+T995,Delivery delayed,Payment Issue
+T996,How do I get a refund?,Delivery Issue
+T997,How do I get a refund?,Support
+T998,How do I get a refund?,General Inquiry
+T999,How do I get a refund?,Payment Issue
+T1000,Payment issue occurred,Payment Issue
