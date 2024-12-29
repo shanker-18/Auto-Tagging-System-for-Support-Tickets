@@ -1,0 +1,121 @@
+To test this ticket classification system with Postman, follow these step-by-step instructions. Postman will allow you to interact with the FastAPI application by sending HTTP requests to the provided endpoints and receiving responses.
+
+1. Start the FastAPI Server
+Before testing with Postman, ensure that the FastAPI server is running.
+
+Run the Python script that contains the FastAPI application. The command to run the server is:
+
+bash
+Copy code
+uvicorn <script_name>:app --reload
+Replace <script_name> with the name of the script that contains the FastAPI code.
+
+The server will start on http://127.0.0.1:8000 (by default).
+
+2. Test the /auto-tag-ticket Endpoint (POST Request)
+The /auto-tag-ticket endpoint accepts a user's query and returns the predicted categories. To test it in Postman:
+
+Open Postman and click on the New button and then Request.
+
+Set the request type to POST by selecting POST from the dropdown on the left side of the URL bar.
+
+Enter the URL for the FastAPI endpoint:
+
+vbnet
+Copy code
+http://127.0.0.1:8000/auto-tag-ticket
+Set up the request body:
+
+Go to the Body tab in Postman.
+
+Select raw and set the type to JSON from the dropdown.
+
+In the body, input the following JSON, where "user_query" is the ticket query you want to classify:
+
+json
+Copy code
+{
+  "user_query": "I need help with my internet connection"
+}
+Send the request by clicking the Send button.
+
+View the response in Postman. The response should contain the predicted categories, like:
+
+json
+Copy code
+{
+  "tags": [
+    "internet issue",
+    "technical support"
+  ]
+}
+The tags represent the categories predicted by the model based on the provided user query.
+
+3. Test the /feedback Endpoint (POST Request)
+The /feedback endpoint allows users to submit feedback on the predicted tags. This feedback includes the ticket ID, user query, and the correct tags. To test it in Postman:
+
+Set up another POST request in Postman.
+
+Enter the URL for the feedback endpoint:
+
+arduino
+Copy code
+http://127.0.0.1:8000/feedback
+Set up the request body:
+
+Go to the Body tab in Postman.
+
+Select raw and set the type to JSON from the dropdown.
+
+In the body, input the following JSON with a ticket ID, user query, and correct tags:
+
+json
+Copy code
+{
+  "ticket_id": "12345",
+  "user_query": "I need help with my internet connection",
+  "correct_tags": ["internet issue", "technical support"]
+}
+Send the request by clicking the Send button.
+
+View the response in Postman. If the feedback is successfully received, you should get a response like:
+
+json
+Copy code
+{
+  "message": "Feedback received. Thank you!"
+}
+The feedback will be stored in the feedback.json file on the server.
+
+4. Check the Feedback Data (Optional)
+To check the collected feedback:
+
+Open the feedback.json file located in the same directory where the FastAPI app is running.
+
+You should see the feedback entries in a list format, for example:
+
+json
+Copy code
+[
+  {
+    "ticket_id": "12345",
+    "user_query": "I need help with my internet connection",
+    "correct_tags": ["internet issue", "technical support"]
+  }
+]
+5. Handling Errors (Optional)
+If you encounter any issues such as incorrect endpoints or server errors, follow these steps:
+
+Check the server logs in the terminal where FastAPI is running to see any error messages.
+Ensure the server is running before sending requests from Postman.
+Double-check the request format in Postman to ensure it matches the expected JSON structure for each endpoint.
+Summary of Postman Testing Steps:
+Test /auto-tag-ticket:
+Method: POST
+URL: http://127.0.0.1:8000/auto-tag-ticket
+Body: { "user_query": "your query here" }
+Test /feedback:
+Method: POST
+URL: http://127.0.0.1:8000/feedback
+Body: { "ticket_id": "ticket_id", "user_query": "query", "correct_tags": ["tags"] }
+By following these steps, you can successfully interact with the FastAPI-based ticket classification system and test both the auto-tagging and feedback functionality using Postman.
